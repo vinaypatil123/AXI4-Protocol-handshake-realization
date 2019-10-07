@@ -154,8 +154,7 @@ module top;
     `include "uvm_macros.svh"
     import uvm_pkg::*;
 
-   // master mst;
-   // slave slv;
+   
 
     handshake_int itf();
 
